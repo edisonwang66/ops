@@ -1,0 +1,3 @@
+wlan disble 2
+wlan radius auth add 2 1
+wlan radius auth add 2 2
